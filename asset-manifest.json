@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Hand_Gesture/static/css/main.aac2a7e6.css",
-    "main.js": "/Hand_Gesture/static/js/main.45ff67f6.js",
-    "static/media/Bahara.mp3": "/Hand_Gesture/static/media/Bahara.d343a97aa2231c397725.mp3",
-    "static/media/victory.png": "/Hand_Gesture/static/media/victory.8710fbb201e8f3ee6274.png",
-    "static/media/thumbs_up.png": "/Hand_Gesture/static/media/thumbs_up.e3bf974dcf17c12c8cfa.png",
-    "service-worker.js": "/Hand_Gesture/service-worker.js",
-    "static/media/raised_fist.png": "/Hand_Gesture/static/media/raised_fist.3eb0d7e1a7340a9e1f26.png",
-    "static/media/love_you.png": "/Hand_Gesture/static/media/love_you.4c7a4bdfb9d4ab34b097.png",
-    "static/media/thumbs_down.png": "/Hand_Gesture/static/media/thumbs_down.ff92df2544ee1bd95cd8.png",
-    "static/media/raised_hand.png": "/Hand_Gesture/static/media/raised_hand.fb8eefef1af8dc1d2415.png",
-    "static/media/call_me.png": "/Hand_Gesture/static/media/call_me.ba7468f125df03ec2bdc.png",
-    "static/media/ok_sign.png": "/Hand_Gesture/static/media/ok_sign.b96d064bb040b793d193.png",
-    "static/media/pinched_finger.png": "/Hand_Gesture/static/media/pinched_finger.d49fe8587ec90c6089c2.png",
-    "static/media/rock_on.png": "/Hand_Gesture/static/media/rock_on.c99acde7fccc74a56d9a.png",
-    "static/media/point_up.png": "/Hand_Gesture/static/media/point_up.baf8d91401db24b9d0fa.png",
-    "static/media/pinched_hand.png": "/Hand_Gesture/static/media/pinched_hand.a091fa4423d978a52a39.png",
-    "static/media/point_down.png": "/Hand_Gesture/static/media/point_down.6bf601a72f23bd4eaf70.png",
-    "static/media/point_left.png": "/Hand_Gesture/static/media/point_left.78f2dbc45cf08bb548b8.png",
-    "static/media/point_right.png": "/Hand_Gesture/static/media/point_right.b8fcd0360eadc4531d7b.png",
-    "index.html": "/Hand_Gesture/index.html",
-    "main.aac2a7e6.css.map": "/Hand_Gesture/static/css/main.aac2a7e6.css.map",
-    "main.45ff67f6.js.map": "/Hand_Gesture/static/js/main.45ff67f6.js.map"
+    "main.css": "/Hand_Gesture/build/static/css/main.aac2a7e6.css",
+    "main.js": "/Hand_Gesture/build/static/js/main.dbaeec24.js",
+    "static/media/Bahara.mp3": "/Hand_Gesture/build/static/media/Bahara.d343a97aa2231c397725.mp3",
+    "static/media/victory.png": "/Hand_Gesture/build/static/media/victory.8710fbb201e8f3ee6274.png",
+    "static/media/thumbs_up.png": "/Hand_Gesture/build/static/media/thumbs_up.e3bf974dcf17c12c8cfa.png",
+    "service-worker.js": "/Hand_Gesture/build/service-worker.js",
+    "static/media/raised_fist.png": "/Hand_Gesture/build/static/media/raised_fist.3eb0d7e1a7340a9e1f26.png",
+    "static/media/love_you.png": "/Hand_Gesture/build/static/media/love_you.4c7a4bdfb9d4ab34b097.png",
+    "static/media/thumbs_down.png": "/Hand_Gesture/build/static/media/thumbs_down.ff92df2544ee1bd95cd8.png",
+    "static/media/raised_hand.png": "/Hand_Gesture/build/static/media/raised_hand.fb8eefef1af8dc1d2415.png",
+    "static/media/call_me.png": "/Hand_Gesture/build/static/media/call_me.ba7468f125df03ec2bdc.png",
+    "static/media/ok_sign.png": "/Hand_Gesture/build/static/media/ok_sign.b96d064bb040b793d193.png",
+    "static/media/pinched_finger.png": "/Hand_Gesture/build/static/media/pinched_finger.d49fe8587ec90c6089c2.png",
+    "static/media/rock_on.png": "/Hand_Gesture/build/static/media/rock_on.c99acde7fccc74a56d9a.png",
+    "static/media/point_up.png": "/Hand_Gesture/build/static/media/point_up.baf8d91401db24b9d0fa.png",
+    "static/media/pinched_hand.png": "/Hand_Gesture/build/static/media/pinched_hand.a091fa4423d978a52a39.png",
+    "static/media/point_down.png": "/Hand_Gesture/build/static/media/point_down.6bf601a72f23bd4eaf70.png",
+    "static/media/point_left.png": "/Hand_Gesture/build/static/media/point_left.78f2dbc45cf08bb548b8.png",
+    "static/media/point_right.png": "/Hand_Gesture/build/static/media/point_right.b8fcd0360eadc4531d7b.png",
+    "index.html": "/Hand_Gesture/build/index.html",
+    "main.aac2a7e6.css.map": "/Hand_Gesture/build/static/css/main.aac2a7e6.css.map",
+    "main.dbaeec24.js.map": "/Hand_Gesture/build/static/js/main.dbaeec24.js.map"
   },
   "entrypoints": [
     "static/css/main.aac2a7e6.css",
-    "static/js/main.45ff67f6.js"
+    "static/js/main.dbaeec24.js"
   ]
 }
